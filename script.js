@@ -1,9 +1,1 @@
-body{
-    font-family: Arial, sans-serif;
-    text-align:center;
-    margin-top:100px;
-}
-
-h1{
-    color:#0D1B3D;
-}
+console.log("Techno Digifix Website Loaded");
